@@ -1,4 +1,4 @@
-👋Olá! Meu nnome é Elizângela silva
+👋Olá! Meu nome é Elizângela silva
 
 🧑‍🎓Estudante TypeScript
 
