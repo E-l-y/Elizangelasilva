@@ -7,8 +7,8 @@ Olá, eu sou Elizângela Bezerra da Silva! 👋
 
 ## 
 - 🔭 Atualmente estou trabalhando em projetos utilizando Node.js, React.js, TypeScript, Docker, SQL e NoSQL.
-- 🌱 Atualmente estou aprendendo novas tecnologias e aprimorando minhas habilidades em desenvolvimento web.
-- 👯 Estou procurando colaborar em projetos open-source e iniciativas comunitárias.
+- 🌱 Estou aprendendo novas tecnologias e aprimorando minhas habilidades em desenvolvimento web.
+- 👯 Procurando colaborar em projetos open-source e iniciativas comunitárias.
 - 🤔 Estou procurando ajuda com melhorias de desempenho em aplicações web.
 - ⚡ Curiosidade: Além de programar, adoro cozinhar e praticar esportes ao ar livre.
 
