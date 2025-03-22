@@ -7,13 +7,16 @@
 🎓 Formada em Análise de Sistemas
 💻 Apaixonada por tecnologia, resolução de problemas e aprendizado contínuo.
 
+
+
+
+
 ## 
 - 🔭 Atualmente estou trabalhando em projetos utilizando Node.js, React.js, TypeScript, Docker, SQL e NoSQL.
 - 🌱 Estou aprendendo novas tecnologias e aprimorando minhas habilidades em desenvolvimento web.
 - 👯 Procurando colaborar em projetos open-source e iniciativas comunitárias.
 - 🤔 Estou procurando ajuda com melhorias de desempenho em aplicações web.
 - ⚡ Curiosidade: Além de programar, adoro cozinhar e praticar esportes ao ar livre.
-
 
 
 
