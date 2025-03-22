@@ -10,6 +10,5 @@
 - 🌱 <span style="color:orange;">Atualmente estou aprendendo novas tecnologias e aprimorando minhas habilidades em desenvolvimento web.</span>
 - 👯 <span style="color:teal;">Estou procurando colaborar em projetos open-source e iniciativas comunitárias.</span>
 - 🤔 <span style="color:maroon;">Estou procurando ajuda com melhorias de desempenho em aplicações web.</span>
-- 💬 <span style="color:navy;">Pergunte-me sobre desenvolvimento web, JavaScript, TypeScript, Docker, e bancos de dados.</span>
 - 📫 <span style="color:olive;">Como me encontrar:12elysilva@gmail.com</span>
 - ⚡ <span style="color:lime;">Curiosidade: Além de programar, adoro cozinhar e praticar esportes ao ar livre.</span>
