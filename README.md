@@ -6,7 +6,7 @@
 <p style="color:red;">💻 Apaixonada por tecnologia, resolução de problemas e aprendizado contínuo.</p>
 
 ## 🚀 Sobre Mim
-- 🔭 <span style="color:purple;">Atualmente estou trabalhando em projetos utilizando Node.js, React.js, TypeScript, Docker, SQL e NoSQL.</span>
+- 🔭 <span style="color:red;">Atualmente estou trabalhando em projetos utilizando Node.js, React.js, TypeScript, Docker, SQL e NoSQL.</span>
 - 🌱 <span style="color:orange;">Atualmente estou aprendendo novas tecnologias e aprimorando minhas habilidades em desenvolvimento web.</span>
 - 👯 <span style="color:teal;">Estou procurando colaborar em projetos open-source e iniciativas comunitárias.</span>
 - 🤔 <span style="color:maroon;">Estou procurando ajuda com melhorias de desempenho em aplicações web.</span>
