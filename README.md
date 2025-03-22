@@ -1,3 +1,4 @@
+![Build Status](https://img.shields.io/github/workflow/status/E-l-y/Elizangelasilva/CI?style=flat-square)
  ## Olá, eu sou Elizângela Bezerra!
 
 🌟 Bem-vindo(a) ao meu GitHub!
