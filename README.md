@@ -1,5 +1,5 @@
-
-<p style="color:pink;"> ## Olá, eu sou Elizângela Bezerra!
+<p style="color:blue;">
+ ## Olá, eu sou Elizângela Bezerra!
 
 🌟 Bem-vindo(a) ao meu GitHub!
 
