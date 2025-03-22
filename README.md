@@ -2,7 +2,7 @@
 
 <p style="color:pink;">🌟 Bem-vindo(a) ao meu GitHub!</p>
 
-<p style="color:green;">🎓 Formada em Análise de Sistemas</p>
+<p style="color:green;">🎓 Formada em Análise de Sistemas.</p>
 <p style="color:red;">💻 Apaixonada por tecnologia, resolução de problemas e aprendizado contínuo.</p>
 
 ## 🚀 Sobre Mim
