@@ -2,7 +2,7 @@
 
 🌟 Bem-vindo(a) ao meu GitHub!
 
-## ❔ Sobre Mim:
+##  Sobre Mim:👇
 🎓 Formada em Análise de Sistemas
 💻 Apaixonada por tecnologia, resolução de problemas e aprendizado contínuo.
 
