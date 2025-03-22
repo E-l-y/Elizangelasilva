@@ -1,31 +1,15 @@
+# Olá, eu sou Elizângela Bezerra da Silva! 👋
 
- ## Olá, eu sou Elizângela Bezerra!
+<p style="color:blue;">🌟 Bem-vindo(a) ao meu GitHub!</p>
 
-🌟 Bem-vindo(a) ao meu GitHub!
+<p style="color:green;">🎓 Formada em Análise de Sistemas</p>
+<p style="color:red;">💻 Apaixonada por tecnologia, resolução de problemas e aprendizado contínuo.</p>
 
-##  Sobre Mim:👇
-🎓 Formada em Análise de Sistemas
-💻 Apaixonada por tecnologia, resolução de problemas e aprendizado contínuo.
-
-
-
-
-
-## 
-- 🔭 Atualmente estou trabalhando em projetos utilizando Node.js, React.js, TypeScript, Docker, SQL e NoSQL.
-- 🌱 Estou aprendendo novas tecnologias e aprimorando minhas habilidades em desenvolvimento web.
-- 👯 Procurando colaborar em projetos open-source e iniciativas comunitárias.
-- 🤔 Estou procurando ajuda com melhorias de desempenho em aplicações web.
-- ⚡ Curiosidade: Além de programar, adoro cozinhar e praticar esportes ao ar livre.
-
-
-
-
- 
-<div> 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
-
+## 🚀 Sobre Mim
+- 🔭 <span style="color:purple;">Atualmente estou trabalhando em projetos utilizando Node.js, React.js, TypeScript, Docker, SQL e NoSQL.</span>
+- 🌱 <span style="color:orange;">Atualmente estou aprendendo novas tecnologias e aprimorando minhas habilidades em desenvolvimento web.</span>
+- 👯 <span style="color:teal;">Estou procurando colaborar em projetos open-source e iniciativas comunitárias.</span>
+- 🤔 <span style="color:maroon;">Estou procurando ajuda com melhorias de desempenho em aplicações web.</span>
+- 💬 <span style="color:navy;">Pergunte-me sobre desenvolvimento web, JavaScript, TypeScript, Docker, e bancos de dados.</span>
+- 📫 <span style="color:olive;">Como me encontrar: [seu-email@example.com](mailto:seu-email@example.com)</span>
+- ⚡ <span style="color:lime;">Curiosidade: Além de programar, adoro cozinhar e praticar esportes ao ar livre.</span>
