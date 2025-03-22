@@ -25,7 +25,44 @@ Olá, eu sou Elizângela Bezerra da Silva! 👋
 </div>
 
 
+.github/
+  workflows/
+    generate-snake.yml
+    name: Generate Snake Animation
 
+on:
+  schedule:
+    # Executa a cada 6 horas
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@master
+        with:
+          github_user_name: E-l-y
+          outputs: dist/snake.svg
+
+      - name: Push Snake Animation to the repository
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "Update Snake Animation"
+          add: dist/snake.svg
+
+      - name: Deploy Snake Animation
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          
 
 
   
