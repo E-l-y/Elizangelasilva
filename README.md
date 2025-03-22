@@ -1,10 +1,10 @@
 
  ## Olá, eu sou Elizângela Bezerra!
 
-<p style="color:pink;">🌟 Bem-vindo(a) ao meu GitHub!
+🌟 Bem-vindo(a) ao meu GitHub!
 
 ##  Sobre Mim:👇
-🎓 Formada em Análise de Sistemas
+<span style="color:blue;">🎓 Formada em Análise de Sistemas
 💻 Apaixonada por tecnologia, resolução de problemas e aprendizado contínuo.
 
 ## 
