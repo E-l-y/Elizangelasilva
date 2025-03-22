@@ -1,4 +1,4 @@
- ## Olá, eu sou Elizângela Bezerra da Silva!
+ ## Olá, eu sou Elizângela Bezerra!
 
 🌟 Bem-vindo(a) ao meu GitHub!
 
