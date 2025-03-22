@@ -1,8 +1,17 @@
-👋Olá! Meu nome é Elizângela silva
+Olá, eu sou Elizângela Bezerra da Silva! 👋
+🌟 Bem-vindo(a) ao meu GitHub!
 
-🧑‍🎓Estudante TypeScript
+## 🚀 Sobre Mim:
+🎓 Formada em Análise de Sistemas
+💻 Apaixonada por tecnologia, resolução de problemas e aprendizado contínuo.
 
-🥳 Pronome: ela/dela
+## 🚀 Sobre Mim
+- 🔭 Atualmente estou trabalhando em projetos utilizando Node.js, React.js, TypeScript, Docker, SQL e NoSQL.
+- 🌱 Atualmente estou aprendendo novas tecnologias e aprimorando minhas habilidades em desenvolvimento web.
+- 👯 Estou procurando colaborar em projetos open-source e iniciativas comunitárias.
+- 🤔 Estou procurando ajuda com melhorias de desempenho em aplicações web.
+- ⚡ Curiosidade: Além de programar, adoro cozinhar e praticar esportes ao ar livre.
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elizangelasilva&show_icons=true&theme=radical)
 
